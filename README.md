@@ -1,2 +1,2 @@
 # AKNL-AJE23
-Data used in AJE article
+This repository will contain data and analyses associated with the AJE article. It is presently under construction.
