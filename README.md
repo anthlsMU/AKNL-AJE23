@@ -26,8 +26,6 @@ g.	Summary of population and death data used in analyses; copied from other page
 
 5.	Excel file Fig 2 – data for and final version of Figure 2
 
-6.	Copy of Web Appendix for AJE article
-
-7.	Copy of Web Tables for AJE article
+6.	Copy of Supplementary Materials for AJE article
 
 
